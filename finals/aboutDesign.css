@@ -1,0 +1,14 @@
+body {
+    background-image: url('./pictures/backgroundmountain.png');
+      background-repeat: no-repeat;
+      background-size: 150%;
+      font-family: "Trirong", serif;
+}
+
+.navbar{
+  font-size: 20px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
